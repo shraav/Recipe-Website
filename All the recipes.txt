@@ -1,0 +1,563 @@
+[1]
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title> BAKED BEAN WRAPS </title>
+  <style>
+    img {
+      height: 600px;
+      width: 600px;
+      border: solid white;
+    }
+
+    h1 {
+      text-align: center;
+      text-decoration: underline;
+    }
+
+    body {
+      background-repeat: no-repeat;
+      font-size: 20px font-family:Allura;
+      font-style: italic;
+      background-color: black;
+    }
+
+    * {
+      color: white;
+    }
+
+    h4 {
+      text-decoration: underline;
+      font-size: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <img align="right" src="img19.jpg" ;>
+  <h1> BAKED BEAN WRAPS</h1>
+  <h4> INGREDIENTS </h4>
+  <p>4 whole wheat rotis.</p>
+  <p>1 cup tinned baked beans & 2 medium onions.</p>
+  <p>1 tablespoon oil, 1 medium green capsicum, chopped 5-6 garlic cloves, thinly sliced.</p>
+  <p>3 tablespoons chopped fresh coriander. Few ice-berglettuce leaves, shredded.</p>
+  <p>Tomato ketchup as required & red chilli sauce.</p>
+  <p>4 tablespoons og grated processed cheese.</p>
+  <h4> METHOD </h4>
+  <p>Finely chop one onion and slice the other. Heat the oil in a non-stick pan, add the chooped onion,capsicum and garlic,and saute for a few minutes.</p>
+  <p>Add the baked beans and saute for a while.A dd the chopped coriander and mix. Place the rotis on a flat surface. Spread a little tomato ketchup and red chilli sauce on each one.</p>
+  <p>Place some of the baked beans mixture at one end of each roti.Sprinkle the sliced onion,lettuce and grated cheese over the baked beans and roll up.</p>
+  <p>Cut each roll into diagonal pieces and serve, or wrap rach roll in an aluminium foil and serve.</p>
+
+</body>
+
+</html>
+
+[2]
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title> BREAD PAKORE </title>
+  <style>
+    img {
+      height: 500px;
+      width: 600px;
+      border: solid white;
+    }
+
+    h1 {
+      text-align: center;
+      text-decoration: underline;
+    }
+
+    body {
+      background-repeat: no-repeat;
+      font-size: 20px font-family:Allura;
+      font-style: italic;
+      background-color: black;
+    }
+
+    * {
+      color: white;
+    }
+
+    h4 {
+      text-decoration: underline;
+      font-size: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <img align="right" src="img22.jpg" ;>
+  <h1> BREAD PAKORE </h1>
+  <h4> INGREDIENTS </h4>
+  <p>250 grams fresh gram kernels.</p>
+  <p>2 teaspoons green chilli paste.</p>
+  <p>1 teaspoon ginger paste and chaat masala.</p>
+  <p>1 teaspoon coriander powder.</p>
+  <p>2 tablespoons chopped fresh coriander.</p>
+  <p>5-6 tablespoons gram flour.</p>
+  <p>Salt to taste & oil foe deep frying.</p>
+  <h4> METHOD </h4>
+  <p>Coarsely grind the corn kernels.</p>
+  <p>Place the ground corn in a large bowl. Add the green chilli paste, ginger paste, chaat masala, coriander poeder, chopped coriander, gram flour and salt.Mix well.</p>
+  <p>Heat sufficient oil in a kadai.Drop small portions of the corn mixture into the hot oil and deep-fry the pakore till golden brown on both sides.Drain on absorbent paper.</p>
+  <p>Serve hot with green chutney or ketchup.</p>
+</body>
+
+</html>
+
+[3]
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title> COCONUT BURFI </title>
+  <style>
+    img {
+      height: 500px;
+      width: 600px;
+      border: solid white;
+    }
+
+    h1 {
+      text-align: center;
+      text-decoration: underline;
+    }
+
+    body {
+      background-repeat: no-repeat;
+      font-size: 20px font-family:Allura;
+      font-style: italic;
+      background-color: black;
+    }
+
+    * {
+      color: white;
+    }
+
+    h4 {
+      text-decoration: underline;
+      font-size: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <img align="right" src="img18.jpg" ;>
+  <h1> COCONUT BURFI </h1>
+  <h4> INGREDIENTS </h4>
+  <p>2 cups grated fresh coconut.</p>
+  <p>1 cup sugar and 1/2 cup fresh ice-cream.</p>
+  <p>A pinch of green cardamom powder & 2 tablespoons og powdered sugar.</p>
+  <p>1/2 tablespoon of ghee.</p>
+  <h4> METHOD </h4>
+  <p>Heat the nin-stick pan on medium heat. Add the coconut,sugar,cream & cardamom and cook stirring continuously for 15 minutes or till the mixture turns golden brown.</p>
+  <p>Remove from the heat & add the powdered sugar and mix. </p>
+  <p>Grease a thali with ghee and pour in the coconut mixture & spread evenly. </p>
+  <p>Cool and cut into diamonds or squares and serve.</p>
+</body>
+</html>
+
+[4]
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title> CORN PAKORE </title>
+  <style>
+    img {
+      height: 600px;
+      width: 600px;
+      border: solid white;
+    }
+
+    h1 {
+      text-align: center;
+      text-decoration: underline;
+    }
+
+    body {
+      background-repeat: no-repeat;
+      font-size: 20px font-family:Allura;
+      font-style: italic;
+      background-color: black;
+    }
+
+    * {
+      color: white;
+    }
+
+    h4 {
+      text-decoration: underline;
+      font-size: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <img align="right" src="img21.webp" ;>
+  <h1> CORN PAKORE </h1>
+  <h4> INGREDIENTS </h4>
+  <p>250 grams fresh gram kernels.</p>
+  <p>2 teaspoons green chilli paste.</p>
+  <p>1 teaspoon ginger paste and chaat masala.</p>
+  <p>1 teaspoon coriander powder.</p>
+  <p>2 tablespoons chopped fresh coriander.</p>
+  <p>5-6 tablespoons gram flour.</p>
+  <p>Salt to taste & oil foe deep frying.</p>
+  <h4> METHOD </h4>
+  <p>Coarsely grind the corn kernels.</p>
+  <p>Place the ground corn in a large bowl. Add the green chilli paste, ginger paste, chaat masala, coriander poeder, chopped coriander, gram flour and salt.Mix well.</p>
+  <p>Heat sufficient oil in a kadai.Drop small portions of the corn mixture into the hot oil and deep-fry the pakore till golden brown on both sides.Drain on absorbent paper.</p>
+  <p>Serve hot with green chutney.</p>
+</body>
+
+</html>
+
+[5]
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title> Crusty potato fingers </title>
+  <style>
+    h1 {
+      text-align: center;
+      text-decoration: underline;
+    }
+
+    body {
+      background-repeat: no-repeat;
+      font-size: 20px font-family:Allura;
+      font-style: italic;
+    }
+
+    * {
+      color: mistyrose;
+    }
+
+    h4 {
+      text-decoration: underline;
+      font-size: 20px;
+    }
+  </style>
+</head>
+
+<body background="img14.png" ;>
+  <h1> CRUSTY POTATO FINGERS </h1>
+  <h4><b> INGREDIENTS </b></h4>
+  <p> 2 large potatoes</p>
+  <p> Salt to taste </p>
+  <p> 2 cups cornflakes crushed</p>
+  <p> Oil for deep-frying </p>
+
+  <h4><b> BATTER </b></h4>
+  <p> 1 Onion roughly chopped </p>
+  <p> 1 Green chilli and 1/2 inch ginger chopped</p>
+  <p> Salt to taste </p>
+  <p> 1/2 Cup refined flour and 1 Tablespoon cornflour</p>
+
+  <h4><i><b> METHOD </b></i></h4>
+  <ol>
+    <li> For the batter,grind the onion,green chilli,ginger and salt to a fine paste.</li>
+    <li> Mix the ground paste with the flour and corn flour. Add 2 table-spoons of water to make a thick batter. </li>
+    <li> Peel and cut the potatoes length ways into even strips. Heat 4 cups of water in a non-stock pan. Add the salt and parboil the sliced potatoes.Drain and set aside.</li>
+    <li> Heat sufficient oil in a kadai. Dip the potatoes in the batter,roll in crushed corn flakes and deep fry till golden-brown.Drain on absorbent paper.</li>
+    <li> Serve hot,with sauce or chutney</li>
+  </ol>
+
+</body>
+
+</html>
+
+[6]
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title> MAWA CUPCAKES </title>
+  <style>
+    img {
+      height: 700px;
+      width: 600px;
+      border: solid white;
+    }
+
+    h1 {
+      text-align: center;
+      text-decoration: underline;
+    }
+
+    body {
+      background-repeat: no-repeat;
+      font-size: 20px font-family:Allura;
+      font-style: italic;
+      background-color: black;
+    }
+
+    * {
+      color: white;
+    }
+
+    h4 {
+      text-decoration: underline;
+      font-size: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <img align="right" src="img24.jpg" ;>
+  <h1> MAWA CUPCAKES </h1>
+  <h4> INGREDIENTS </h4>
+  <p>1 tablespoon mawa crumbled.150 grams butter softened.</p>
+  <p>3/4 cups powdered sugar & 5 tablespoons milk powder.</p>
+  <p>1 cup refined flour, 2 tablespoons cornflour.</p>
+  <p>1 teaspoon baking powder & soda bicarbonate.</p>
+  <p>1/4 spoon of green cardamom powder, 1/4 cup buttermilk & 2 tablespoons milk.</p>
+  <h4> METHOD </h4>
+  <p>Preheat the oven to 180 deg C.Grease 12 oulds or paper cups.</p>
+  <p>Cream the butter and powdered sugar in a bowl.Sift the milk powder ointo bowl and continue to mix.Add the mawa and mix again.</p>
+  <p>Sift the flour, cornflour, baking powder, soda bicarbonate and cardamom powder together into the bowl and mix.</p>
+  <p>Add buttermilk to adjust the consistency.If the batter is still too thick add a little milk and mix.</p>
+  <p>Pour the batter into the greased moulds or paper cups.Tap the moulds to level the batter.Bake for 30 minutes.</p>
+  <p>Remove from the oven and place on a wire rack to cool before unmoulding.</p>
+  <p>Serve warm or cold.</p>
+
+</body>
+
+</html>
+
+[7]
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title> SEV BATATA PURI </title>
+  <style>
+    img {
+      height: 500px;
+      width: 600px;
+      border: solid green;
+    }
+
+    h1 {
+      text-align: center;
+      text-decoration: underline;
+    }
+
+    body {
+      background-repeat: no-repeat;
+      font-size: 20px font-family:Allura;
+      font-style: italic;
+      background-color: black;
+    }
+
+    * {
+      color: green;
+    }
+
+    h4 {
+      text-decoration: underline;
+      font-size: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <img align="right" src="img17.webp" ;>
+
+  <h1> SEV BATATA PURI </h1>
+  <h4> INGREDIENTS </h4>
+  <p>24 crisp flat puris, 2 larhe potatoes,boiled,peeled & chopped.</p>
+  <p>1 small green unripe mango, chopped. Add salt to taste. </p>
+  <p>1/4 tea sppon of red chilli powder and 2 medium onions chopped.</p>
+  <p>2 tablespoons of red chilli-garlic chutney and chopped coriander leaves.</p>
+  <p> 1 cup sev & 1/2 cup chaat masala</p>
+  <h4> METHOD </h4>
+  <p>Arrange the puris on a plate.</p>
+  <p>Mix together the potatoes, green mango, salt & chilli powder.</p>
+  <p>Place portions of mixture on the puris. Sprinkle the onion over the potato mixtiure.</p>
+  <p>Drizzle green coriander chutney & red-chilli garlic chutney over the top. Cover the puris with plenty of sev.</p>
+  <p>Sprinkle chaat masala and coriander leaves and serve.</p>
+
+</body>
+
+</html>
+
+[8]
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title> SPROUT CUTLET </title>
+  <style>
+    img {
+      height: 600px;
+      width: 600px;
+      border: solid olive;
+    }
+
+    h1 {
+      text-align: center;
+      text-decoration: underline;
+    }
+
+    body {
+      background-repeat: no-repeat;
+      font-size: 20px font-family:Allura;
+      font-style: italic;
+      background-color: black;
+    }
+
+    * {
+      color: olive;
+    }
+
+    h4 {
+      text-decoration: underline;
+      font-size: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <img align="right" src="img16.jpg" ;>
+  <h1> SPROUT CUTLET </h1>
+  <h4><b> INGREDIENTS </b></h4>
+  <p> 1/2 cup sprouted white peas,boiled. </p>
+  <p> 1/2 cup sprouted brown bengal gram,boiled. </p>
+  <p> 1/2 cup sprouted green bengal gram, boiled. </p>
+  <p> 2 tablespoons finely chopped fresh coriander. </p>
+  <p> salt to taste. </p>
+  <p> 1/2 teaspoon red chilli powder and bread crumbs. </p>
+  <p> 1/2 teaspoon chaat masala and cumin powder. </p>
+  <p> oil foe shallow-frying. </p>
+  <h4><b> METHOD </b></h4>
+  <p> Combine the chopped coriander, white peas, brown bengal gram, green begal gram and salt in a bowl. Mash well with a potato masher.</p>
+  <p> Add the red chilli powder, chaat masala and cumin powder and mix well. Heat a little oil in a non-stick pan.</p>
+  <p> Divide the sprout mixture into eight portions and shape them into small cutlets, roll them in bread crumbs and place on the pan.</p>
+  <p> Shallow-fry till the underside is done, flip over and cook till both the sides are evenly gold. </p>
+  <p> Serve hot with tomato ketchup and green chutney./p>
+
+</body>
+
+</html>
+
+[9]
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title> TRI-COLOUR SANDWICHES </title>
+  <style>
+    img {
+      height: 500px;
+      width: 600px;
+      border: solid white;
+    }
+
+    h1 {
+      text-align: center;
+      text-decoration: underline;
+    }
+
+    body {
+      background-repeat: no-repeat;
+      font-size: 20px font-family:Allura;
+      font-style: italic;
+      background-color: black;
+    }
+
+    * {
+      color: white;
+    }
+
+    h4 {
+      text-decoration: underline;
+      font-size: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <img align="right" src="img23.webp" ;>
+  <h1> TRI-COLOUR SANDWICHES </h1>
+  <h4> INGREDIENTS </h4>
+  <p>3 pieces sliced bread.</p>
+  <p>Butter,softened.</p>
+  <p>3 tbsp. mayonnaise,Romaine,2 tomato slices,Kosher salt.</p>
+  <p>Freshly ground black pepper.</p>
+  <p>1 thick slice cheddar.</p>
+  <h4> METHOD </h4>
+  <p>Toast bread until golden, then spread a thin layer of butter on both sides of every slice.</p>
+  <p>Spread mayonnaise on one side of one slice of bread.</p>
+  <p>Top with lettuce and tomato slices, then season lightly with salt and pepper..</p>
+  <p>Spread mayonnaise on both sides of a second piece of bread and place on top of bacon.</p>
+  <p> Spread mayonnaise on one side of the last piece of bread and place on top of sandwich, mayo side down.</p>
+</body>
+
+</html>
+
+[10]
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title> VEGETABLE ROLLS </title>
+  <style>
+    img {
+      height: 600px;
+      width: 600px;
+      border: solid white;
+    }
+
+    h1 {
+      text-align: center;
+      text-decoration: underline;
+    }
+
+    body {
+      background-repeat: no-repeat;
+      font-size: 20px font-family:Allura;
+      font-style: italic;
+      background-color: black;
+    }
+
+    * {
+      color: white;
+    }
+
+    h4 {
+      text-decoration: underline;
+      font-size: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <img align="right" src="img20.jpg" ;>
+  <h1> VEGETABLE ROLLS </h1>
+  <h4> INGREDIENTS </h4>
+  <p>10-12 French Beans finely chopped.</p>
+  <p>2 medium carrots finely chopped.</p>
+  <p>2 large potatoes finely chopped.</p>
+  <p>2 tablespoon oil + for deep frying.</p>
+  <p>1/2 teaspoon of garam masala powder.</p>
+  <p>1 1/2 teaspoon of chilli powder and dried mango powder.</p>
+  <p>4 bread slices and salt to taste.</p>
+  <h4>METHOD</h4>
+  <p>Heat 2 tablespoons of oil in a non-stick lan and saute the french beans, carrots and potatoes till all the moisture evaporates and the vegetables are slightly tender.</p>
+  <p>Mash them slightly while they are hot.Add the garam masala powder, chilli powder, dried mango powder and salt.Mix them well.</p>
+  <p>Soak the bread slices in water for a couple of seconds and then sqeeze ouit thoroughly. Add to the vegetables.</p>
+  <p>Coat the rolls with the semolina and deep-fry over medium heat till golden brown and crisp.</p>
+  <p>Serve hot with ketchup or green chutney.</p>
+
+</body>
+
+</html>
+

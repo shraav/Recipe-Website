@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title> ABOUT </title>
+  <style>
+    h1 {
+      text-align: center;
+      text-decoration: underline;
+    }
+
+    body {
+      background-color: black;
+      background-repeat: no-repeat;
+    }
+
+    p {
+      font-size: 25px;
+    }
+  </style>
+</head>
+
+<body background="img36.png" ;>
+  <h1 style="color:white"><b><i> ABOUT THIS WEBSITE </i></b></h1><br><br>
+  <p style="color:white"><b><i> ->This Website is a food website.</i></b></p>
+  <p style="color:white"><b><i> ->Here we create our own recipes.</i></b></p>
+  <p style="color:white"><b><i> ->The recipes that we create are very easy to follow and is very unique.</i></b></p>
+  <p style="color:white"><b><i> ->The recipes will be given in a step by step order.</i></b></p>
+  <p style="color:white"><b><i> ->All the recipes will be given in English.</i></b></p>
+
+</body>
+
+</html>

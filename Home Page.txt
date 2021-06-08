@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>FOOD RECIPE WEBSITE</title>
+  <style>
+    .center {
+      text-align: center;
+      border: 4px solid green;
+    }
+
+    body {
+      background-color: black;
+      background-repeat: no-repeat;
+      text-align: center;
+    }
+  </style>
+</head>
+
+<form action="recipe_menu.html" method="post">
+
+  <body background="img2.png" ;>
+    <forms>
+      <div class="center">
+        <h1 style="color:white"><i> REGISTRATION </i></h1>
+      </div>
+
+      <form action="recipe_menu.html" method="post">
+        <label>
+          <p style="color:white"> First name : <input type="text" name="First_name" />
+        </label></p><br>
+        <label>
+          <p style="color:white"> Last name : <input type="text" name="Last_name" />
+        </label></p><br>
+        <label>
+          <p style="color:white"> Email-Id : <input type="text" name="Email-ID" />
+        </label></p><br>
+        <label>
+          <p style="color:white"> Password : <input type="text" name="Password" />
+        </label></p><br>
+        <label>
+          <p style="color:white"> Contact-no : <input type="text" name="Contact-no" />
+        </label></p><br>
+        <label>
+          <p style="color:white"> Address : <input type="text" name="Address" />
+        </label></p><br>
+        <input type="SUBMIT" value="SUBMIT">
+
+    </forms>
+
+  </body>
+
+</html>
